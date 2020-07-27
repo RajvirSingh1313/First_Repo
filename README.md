@@ -1,4 +1,4 @@
-# Summmer_Python_Codes
+# Summer_Python_Codes
 
 Hello I am Rajvir Singh. In summer I had created some sort of functions. All are the following:-
 
