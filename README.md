@@ -11,7 +11,7 @@ You can customize to your own requirements.
 
 Currency converter is to convert currency as it name i am not confusing you so expoler yourself :)
 
-# Password Manger
+# Password Manager
 
 You can get password and store password in encrypted way.
 
